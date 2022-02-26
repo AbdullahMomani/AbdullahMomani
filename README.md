@@ -19,5 +19,5 @@ I'm full-stack web developer , I love to learn everything new in programming
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdullahMomani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3bf9d861c660e025afade0ada53ec4456b8d013bb999152a6bd8c5c5ed37e05a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d47617075722673686f775f69636f6e733d7472756526686964655f626f726465723d747275652626636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565"><img height="180em" src="https://camo.githubusercontent.com/3bf9d861c660e025afade0ada53ec4456b8d013bb999152a6bd8c5c5ed37e05a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d47617075722673686f775f69636f6e733d7472756526686964655f626f726465723d747275652626636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Gapur&amp;show_icons=true&amp;hide_border=true&amp;&amp;count_private=true&amp;include_all_commits=true" style="max-width: 100%;"></a>
+
 
